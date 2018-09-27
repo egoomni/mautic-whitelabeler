@@ -1,8 +1,8 @@
 <?php
 // Default Mautic colors (used in JS and CSS)
-$sidebar_background = '#4e5d9d';
-$mautic_primary = '#4e5d9d';
-$mautic_hover = '#3d497b';
+$sidebar_background = '#ff6600';
+$mautic_primary = '#ff6600';
+$mautic_hover = '#515151';
 ?>
 <!DOCTYPE html>
 <html lang="en">
